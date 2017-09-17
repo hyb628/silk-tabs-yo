@@ -1,6 +1,8 @@
 
 ## Introduce
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/hyb628/silk-tabs-yo.svg)](https://greenkeeper.io/)
+
 Tabs component of React,designed for mobile.Support gestures and lots of tabs.
 
 [demo](https://houyulei.github.io/Tabs/dist/index.html)
